@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#9f9f9f</color>
+    <color name="colorAccent">#9f9f9f</color>
+    <color name="colorTitle">#4c4c4c</color>
+    <color name="colorTint">#9f9f9f</color>
+    <color name="colorBackground">#f5f5f5</color>
+    <color name="colorMainBg">#dddddd</color>
+    <color name="colorTimestamp">#a0a3a7</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="colorIndicator">#4486FA</color>
+</resources>

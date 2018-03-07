@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_copyright">10sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_left_right">15dp</dimen>
+    <dimen name="padding_top_bottom">20dp</dimen>
+    <dimen name="title">15sp</dimen>
+    <dimen name="item_timestamp">11sp</dimen>
+    <dimen name="cover_margin_top">10dp</dimen>
+    <dimen name="stroke_dith">2dp</dimen>
+    <dimen name="dash_path_effet">2dp</dimen>
+    <dimen name="offset_y">2dp</dimen>
+    <dimen name="default_txt_size">15sp</dimen>
+    <dimen name="pp_num_size">10sp</dimen>
+</resources>
